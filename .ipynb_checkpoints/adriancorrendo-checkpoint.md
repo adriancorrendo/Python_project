@@ -19,7 +19,7 @@ I want the function to produce a *.csv file with up to 8 columns: Trial, STx, Nr
 
 ## **Rationale**
 
-My research project will be related to managing a database of hundreds of corn nitrogen fertilization experiments. For this reason, automating the calculations will save me a significant amount of time when processing the data of nitrogen response, nitrogen use efficiency, and analyzing the database following a classification criterion to create subgroups of soil texture. Creating a criterion like the latter might be useful to reduce the number of potential groups of soil texture (12 main classes from clay to sand) and cluster them into, for example, three main subgroups (fine, medium, coarse).
+My research project will be related to managing a database of hundreds of corn nitrogen fertilization experiments which are like the ones shown in **Fig. 2**. Thus, automating the calculations will save me a significant amount of time when processing the data of nitrogen response, nitrogen use efficiency, and analyzing the database following a classification criterion to create subgroups of soil texture. Creating a criterion like the latter might be useful to reduce the number of potential groups of soil texture (12 main classes from clay to sand) and cluster them into, for example, three main subgroups (fine, medium, coarse).
 
 ## **Sketch**
 
