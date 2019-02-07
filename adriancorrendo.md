@@ -24,6 +24,7 @@ My research project will be related to managing a database of hundreds of corn n
 ## **Sketch**
 
 ![Example](https://github.com/adriancorrendo/project/blob/master/Example.JPG)
+
 **Fig. 1**. Scatter plot of Corn Grain Yield (kg/ha) and nitrogen rate (kg N/ha) from two typical corn nitogren experiments from the database. Y0, Ymax and NR variables are shown for Trial 1. *Fitted functions correspond to quadratic-plateau models (y = a + bx +cx^2, when Nrate < Xc -critical value or threshold-; otherwise y = plateau)*.
 
 ![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/sketch.jpg)
