@@ -23,4 +23,5 @@ My research project will be related to managing a database of hundreds of corn n
 
 ## **Sketch**
 
-![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/sketch.jpg)![Example](https://github.com/adriancorrendo/project/blob/master/Example.JPG)
+![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/sketch.jpg)
+![Example](https://github.com/adriancorrendo/project/blob/master/Example.JPG)
