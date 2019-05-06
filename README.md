@@ -45,11 +45,12 @@ ii) Y0 and Ymax values take place at **Trial** level, while the NR and NAE value
 
 Database compund by hundreds of corn nitrogen fertilizer experiments. Automating these calculations will save me a significant amount of time and avoid potential misscalculations when processing the data.
 
-## **Sketch**
+## **Data Example**
 
-![Example](https://github.com/adriancorrendo/project/blob/master/Scatter.PNG)
+![Example](https://github.com/adriancorrendo/project/blob/master/Scatter.png)
 
 **Fig. 1**. Scatter plot of Corn Grain Yield (kg/ha) and nitrogen rate (kg N/ha) from two typical corn nitogren experiments from the database (#1: circles, #2: triangles). Y0, Ymax and NR variables are shown for Trial 1. *Fitted functions correspond to quadratic-plateau models (y = a + bx +cx^2, when Nrate < Xc -critical value or threshold-; otherwise y = plateau)*.
 
-![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/Sketch.PNG)
+## **Sketch**
+![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/Sketch.png)
 **Fig. 2**. Main steps of the project from data input to expecta data outpouts.
