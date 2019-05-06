@@ -47,7 +47,7 @@ Database compund by hundreds of corn nitrogen fertilizer experiments. Automating
 
 ## **Sketch**
 
-![Example](https://github.com/adriancorrendo/project/blob/master/Scatter.JPG)
+![Example](https://github.com/adriancorrendo/project/blob/master/Scatter.PNG)
 
 **Fig. 1**. Scatter plot of Corn Grain Yield (kg/ha) and nitrogen rate (kg N/ha) from two typical corn nitogren experiments from the database (#1: circles, #2: triangles). Y0, Ymax and NR variables are shown for Trial 1. *Fitted functions correspond to quadratic-plateau models (y = a + bx +cx^2, when Nrate < Xc -critical value or threshold-; otherwise y = plateau)*.
 
