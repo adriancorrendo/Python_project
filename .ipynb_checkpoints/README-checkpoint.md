@@ -54,7 +54,7 @@ ii) Y0 and Ymax values take place at **Trial** level, while the NR and NAE value
 
 ## Rationale
 
-Database compund by hundreds of corn nitrogen fertilizer experiments. Automating these calculations will save me a significant amount of time and avoid potential misscalculations when processing the data.
+I'm working on a review paper for which I collected more than 1200 experiments. Automating these calculations will save me a significant amount of time and avoid potential misscalculations when processing the data. This code might be potentially useful for other similar databases studying crop responses to fertilizer.
 
 ## **Data Example**
 
