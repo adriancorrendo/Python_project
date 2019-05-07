@@ -64,3 +64,11 @@ Database compund by hundreds of corn nitrogen fertilizer experiments. Automating
 ## **Sketch**
 ![Main steps of the project](https://github.com/adriancorrendo/project/blob/master/Sketch.PNG)
 **Fig. 2**. Main steps of the project from data input to expecta data outpouts.
+
+
+## **References**
+1. Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. Web Soil Survey. Available online at the following link: https://websoilsurvey.sc.egov.usda.gov/. Accessed [05-06-2019].
+2. os - Miscellaneous operating system interfaces. https://docs.python.org/3/library/os.html. Accessed [05-06-2019].
+3. glob — Unix style pathname pattern expansion. https://docs.python.org/3/library/glob.html. Accessed [05-06-2019].
+4. The pandas project. https://pandas.pydata.org/. Accessed [05-06-2019].
+5. Folium 0.1.5. https://pypi.org/project/folium/0.1.5/. Accessed [05-06-2019].
