@@ -1,415 +1,415 @@
-,Unnamed: 0,TRIAL,STx,Nrate,GY
-0,0,1,silty clay loam,0,13.317
-1,1,1,silty clay loam,84,14.434
-2,2,1,silty clay loam,140,15.267
-3,3,1,silty clay loam,196,15.405
-4,4,1,silty clay loam,280,15.496
-5,5,4,silt loam,0,9.742
-6,6,4,silt loam,84,11.287
-7,7,4,silt loam,140,11.037
-8,8,4,silt loam,196,10.963
-9,9,4,silt loam,280,11.473
-10,10,5,silt loam,0,10.969
-11,11,5,silt loam,140,12.75
-12,12,5,silt loam,196,12.845
-13,13,5,silt loam,252,12.563
-14,14,5,silt loam,336,13.638
-15,15,13,silty clay,0,7.903
-16,16,13,silty clay,56,12.177
-17,17,13,silty clay,112,13.397
-18,18,13,silty clay,168,13.606
-19,19,13,silty clay,280,13.671
-20,20,29,silt loam,0,10.33
-21,21,29,silt loam,56,12.826
-22,22,29,silt loam,112,15.628
-23,23,29,silt loam,168,15.107
-24,24,29,silt loam,280,15.584
-25,25,51,silt loam,0,4.157
-26,26,51,silt loam,178,6.71
-27,27,51,silt loam,36,5.037
-28,28,51,silt loam,62,5.989
-29,29,51,silt loam,89,5.443
-30,30,51,silt loam,116,5.6370000000000005
-31,31,51,silt loam,143,6.434
-32,32,51,silt loam,170,6.5
-33,33,51,silt loam,196,6.599
-34,34,53,silty clay loam,0,8.14
-35,35,53,silty clay loam,178,10.973
-36,36,53,silty clay loam,36,9.076
-37,37,53,silty clay loam,62,9.977
-38,38,53,silty clay loam,89,10.279000000000002
-39,39,53,silty clay loam,116,10.208
-40,40,53,silty clay loam,143,10.497
-41,41,53,silty clay loam,170,10.703
-42,42,53,silty clay loam,196,10.427
-43,43,54,silt loam,0,10.334
-44,44,54,silt loam,178,11.483
-45,45,54,silt loam,36,12.577
-46,46,54,silt loam,62,11.779000000000002
-47,47,54,silt loam,89,11.005
-48,48,54,silt loam,116,13.25
-49,49,54,silt loam,143,12.717
-50,50,54,silt loam,170,13.81
-51,51,54,silt loam,196,10.858
-52,52,59,silt loam,0,5.799
-53,53,59,silt loam,178,12.697
-54,54,59,silt loam,36,7.977
-55,55,59,silt loam,62,10.342
-56,56,59,silt loam,89,10.628
-57,57,59,silt loam,116,11.791
-58,58,59,silt loam,143,11.54
-59,59,59,silt loam,170,10.727
-60,60,59,silt loam,196,11.978
-61,61,64,silt loam,0,7.557
-62,62,64,silt loam,178,13.674
-63,63,64,silt loam,36,10.288
-64,64,64,silt loam,62,14.165
-65,65,64,silt loam,89,12.965
-66,66,64,silt loam,116,15.571
-67,67,64,silt loam,143,14.851
-68,68,64,silt loam,170,16.767
-69,69,64,silt loam,196,15.877
-70,70,106,loam,0,5.524
-71,71,106,loam,90,8.6
-72,72,106,loam,179,10.107
-73,73,106,loam,269,11.237
-74,74,109,loam,0,5.837999999999999
-75,75,109,loam,90,10.86
-76,76,109,loam,179,12.304
-77,77,109,loam,269,12.555
-78,78,110,loam,0,6.7170000000000005
-79,79,110,loam,90,7.784
-80,80,110,loam,179,7.659
-81,81,110,loam,269,7.47
-82,82,121,silty clay loam,0,6.627999999999999
-83,83,121,silty clay loam,90,10.981
-84,84,121,silty clay loam,179,12.476
-85,85,121,silty clay loam,269,12.606
-86,86,162,silt loam,0,3.693
-87,87,162,silt loam,50,7.4620000000000015
-88,88,162,silt loam,100,10.553
-89,89,162,silt loam,150,12.06
-90,90,162,silt loam,200,12.085
-91,91,187,loam,0,3.916
-92,92,187,loam,67,7.315
-93,93,187,loam,134,9.015
-94,94,187,loam,201,8.867
-95,95,187,loam,268,9.754
-96,96,208,silty clay loam,0,8.524
-97,97,208,silty clay loam,165,9.973
-98,98,208,silty clay loam,330,11.105
-99,99,238,sandy loam,0,7.1
-100,100,238,sandy loam,134,9.8
-101,101,238,sandy loam,202,8.5
-102,102,238,sandy loam,269,8.0
-103,103,274,clay loam,0,13.328
-104,104,274,clay loam,50,13.94
-105,105,274,clay loam,50,13.815
-106,106,274,clay loam,90,14.271
-107,107,274,clay loam,90,14.158
-108,108,274,clay loam,130,13.956
-109,109,274,clay loam,130,13.91
-110,110,274,clay loam,180,13.694
-111,111,274,clay loam,180,13.362
-112,112,274,clay loam,300,14.143
-113,113,274,clay loam,300,13.106
-114,114,305,loam,0,6.7810000000000015
-115,115,305,loam,73,9.026
-116,116,305,loam,124,9.402
-117,117,305,loam,174,10.859000000000002
-118,118,305,loam,224,10.407
-119,119,331,silty clay loam,0,16.108
-120,120,331,silty clay loam,22,15.866
-121,121,331,silty clay loam,45,16.25
-122,122,331,silty clay loam,67,17.038
-123,123,331,silty clay loam,90,16.972
-124,124,331,silty clay loam,179,16.423
-125,125,372,silty clay,0,9.653
-126,126,372,silty clay,30,10.081
-127,127,372,silty clay,60,11.235
-128,128,372,silty clay,90,11.640999999999998
-129,129,372,silty clay,130,12.402
-130,130,372,silty clay,200,12.412
-131,131,372,silty clay,30,10.366
-132,132,372,silty clay,60,12.465
-133,133,372,silty clay,90,13.103
-134,134,372,silty clay,130,13.486
-135,135,372,silty clay,200,13.281
-136,136,393,loam,0,7.277
-137,137,393,loam,45,9.834
-138,138,393,loam,89,10.561
-139,139,393,loam,134,11.662
-140,140,393,loam,179,11.865
-141,141,393,loam,224,12.349
-142,142,424,loam,0,6.664
-143,143,424,loam,190,6.516
-144,144,424,loam,224,10.826
-145,145,454,silt loam,0,7.909
-146,146,454,silt loam,34,8.012
-147,147,454,silt loam,140,8.48
-148,148,489,sandy loam,0,4.316
-149,149,489,sandy loam,56,6.671
-150,150,489,sandy loam,112,8.752
-151,151,489,sandy loam,168,9.688
-152,152,489,sandy loam,224,8.673
-153,153,489,sandy loam,280,9.799
-154,154,489,sandy loam,336,10.015
-155,155,554,silty clay loam,0,10.723
-156,156,554,silty clay loam,50,12.797
-157,157,554,silty clay loam,101,13.023
-158,158,554,silty clay loam,151,13.023
-159,159,554,silty clay loam,202,13.095999999999998
-160,160,554,silty clay loam,252,13.382
-161,161,659,silty clay,0,4.329
-162,162,659,silty clay,50,7.262
-163,163,659,silty clay,101,10.315
-164,164,659,silty clay,151,11.73
-165,165,659,silty clay,202,11.786
-166,166,659,silty clay,252,12.321
-167,167,675,silt loam,0,6.797999999999999
-168,168,675,silt loam,168,12.565
-169,169,675,silt loam,336,15.05
-170,170,677,loam,0,4.6930000000000005
-171,171,677,loam,168,12.507
-172,172,677,loam,336,14.547
-173,173,678,silt loam,0,8.363999999999999
-174,174,678,silt loam,168,13.157
-175,175,678,silt loam,336,13.599
-176,176,739,silt loam,0,6.068
-177,177,739,silt loam,45,6.056
-178,178,739,silt loam,90,8.601
-179,179,739,silt loam,134,11.338
-180,180,739,silt loam,179,10.999
-181,181,739,silt loam,224,8.477
-182,182,739,silt loam,269,9.35
-183,183,744,silt loam,0,2.9
-184,184,744,silt loam,84,5.4
-185,185,744,silt loam,168,6.6
-186,186,746,silt loam,0,2.8
-187,187,746,silt loam,84,6.1
-188,188,746,silt loam,168,6.9
-189,189,782,loam,0,10.837
-190,190,782,loam,46,11.474
-191,191,782,loam,92,12.207
-192,192,782,loam,138,13.227
-193,193,782,loam,184,14.183
-194,194,782,loam,230,14.183
-195,195,784,silt loam,0,6.247000000000001
-196,196,784,silt loam,46,6.566
-197,197,784,silt loam,92,7.0120000000000005
-198,198,784,silt loam,138,6.087999999999999
-199,199,784,silt loam,184,6.7570000000000014
-200,200,784,silt loam,230,6.534
-201,201,787,loam,0,9.6
-202,202,787,loam,67,12.0
-203,203,787,loam,134,12.0
-204,204,787,loam,269,13.2
-205,205,790,silty clay loam,0,5.7
-206,206,790,silty clay loam,67,9.9
-207,207,790,silty clay loam,134,11.9
-208,208,790,silty clay loam,269,12.2
-209,209,793,silt loam,0,12.9
-210,210,793,silt loam,67,14.2
-211,211,793,silt loam,134,14.3
-212,212,793,silt loam,269,14.6
-213,213,801,silty clay loam,0,5.6
-214,214,801,silty clay loam,67,10.9
-215,215,801,silty clay loam,134,12.4
-216,216,801,silty clay loam,269,13.3
-217,217,804,silty clay,0,8.8
-218,218,804,silty clay,67,9.4
-219,219,804,silty clay,134,9.7
-220,220,804,silty clay,269,9.7
-221,221,807,silty clay loam,0,8.7
-222,222,807,silty clay loam,67,9.8
-223,223,807,silty clay loam,134,9.9
-224,224,807,silty clay loam,269,9.9
-225,225,811,silty clay loam,0,10.1
-226,226,811,silty clay loam,67,12.1
-227,227,811,silty clay loam,134,13.1
-228,228,811,silty clay loam,269,13.2
-229,229,815,silty clay loam,0,13.0
-230,230,815,silty clay loam,67,14.0
-231,231,815,silty clay loam,134,14.3
-232,232,815,silty clay loam,269,14.4
-233,233,817,silty clay loam,0,7.165
-234,234,817,silty clay loam,90,8.538
-235,235,817,silty clay loam,134,8.668
-236,236,817,silty clay loam,179,7.83
-237,237,817,silty clay loam,224,8.045
-238,238,831,loamy sand,0,3.5
-239,239,831,loamy sand,125,11.2
-240,240,831,loamy sand,185,11.3
-241,241,831,loamy sand,250,12.0
-242,242,831,loamy sand,250,12.7
-243,243,831,loamy sand,300,11.9
-244,244,836,sandy loam,0,2.7
-245,245,836,sandy loam,125,3.6
-246,246,836,sandy loam,185,3.5
-247,247,836,sandy loam,250,4.1
-248,248,836,sandy loam,250,4.0
-249,249,836,sandy loam,300,3.8
-250,250,901,silt loam,0,4.197
-251,251,901,silt loam,60,8.756
-252,252,901,silt loam,120,9.62
-253,253,901,silt loam,180,12.265
-254,254,901,silt loam,260,12.436
-255,255,902,silt loam,0,8.744
-256,256,902,silt loam,70,12.692
-257,257,902,silt loam,140,14.406
-258,258,902,silt loam,210,11.983
-259,259,904,loam,0,14.914
-260,260,904,loam,70,15.728
-261,261,904,loam,140,15.843
-262,262,904,loam,210,16.980999999999998
-263,263,906,loam,0,13.704
-264,264,906,loam,70,15.957
-265,265,906,loam,140,16.652
-266,266,906,loam,210,18.557
-267,267,946,silt loam,0,4.3439999999999985
-268,268,946,silt loam,60,7.5539999999999985
-269,269,946,silt loam,120,10.128
-270,270,946,silt loam,180,13.175
-271,271,946,silt loam,240,14.501
-272,272,949,silt loam,0,10.508
-273,273,949,silt loam,60,13.026
-274,274,949,silt loam,120,13.549
-275,275,949,silt loam,180,13.205
-276,276,949,silt loam,240,13.630999999999998
-277,277,953,silt loam,0,11.049
-278,278,953,silt loam,60,10.862
-279,279,953,silt loam,120,10.787
-280,280,953,silt loam,180,10.569
-281,281,953,silt loam,240,11.565
-282,282,957,silt loam,0,13.86
-283,283,957,silt loam,60,15.38
-284,284,957,silt loam,120,16.884
-285,285,957,silt loam,180,16.281
-286,286,957,silt loam,240,16.163
-287,287,959,silt loam,0,12.890999999999998
-288,288,959,silt loam,60,15.038
-289,289,959,silt loam,120,16.308
-290,290,959,silt loam,180,17.208
-291,291,959,silt loam,240,16.634
-292,292,961,sandy loam,0,11.834
-293,293,961,sandy loam,60,15.703
-294,294,961,sandy loam,120,16.249000000000002
-295,295,961,sandy loam,180,16.471
-296,296,961,sandy loam,240,17.99
-297,297,965,silt loam,0,10.296
-298,298,965,silt loam,60,12.612
-299,299,965,silt loam,120,14.302
-300,300,965,silt loam,180,14.348
-301,301,965,silt loam,240,14.949000000000002
-302,302,1033,loam,0,4.3
-303,303,1033,loam,101,8.1
-304,304,1033,loam,202,8.9
-305,305,1093,loam,0,8.57
-306,306,1093,loam,34,10.88
-307,307,1093,loam,67,12.2
-308,308,1093,loam,134,12.42
-309,309,1095,loam,0,11.93
-310,310,1095,loam,34,12.23
-311,311,1095,loam,67,13.0
-312,312,1095,loam,134,13.58
-313,313,1097,loam,0,4.35
-314,314,1097,loam,34,5.44
-315,315,1097,loam,67,6.67
-316,316,1097,loam,134,6.54
-317,317,1102,silt loam,0,2.134
-318,318,1102,silt loam,50,4.017
-319,319,1102,silt loam,100,4.143
-320,320,1102,silt loam,150,5.084
-321,321,1104,loam,0,9.934
-322,322,1104,loam,50,12.467
-323,323,1104,loam,100,13.638
-324,324,1104,loam,150,14.265999999999998
-325,325,1104,loam,200,13.724
-326,326,1104,loam,250,14.563
-327,327,1107,clay loam,0,5.11
-328,328,1107,clay loam,50,6.647
-329,329,1107,clay loam,100,11.274
-330,330,1107,clay loam,150,12.113
-331,331,1107,clay loam,200,13.093
-332,332,1107,clay loam,250,13.706
-333,333,1110,clay,0,5.955
-334,334,1110,clay,50,6.3260000000000005
-335,335,1110,clay,100,9.061
-336,336,1110,clay,150,9.725
-337,337,1110,clay,200,9.996
-338,338,1110,clay,250,9.933
-339,339,1112,clay loam,0,5.7570000000000014
-340,340,1112,clay loam,50,9.919
-341,341,1112,clay loam,100,10.194
-342,342,1112,clay loam,150,10.768
-343,343,1112,clay loam,200,10.607
-344,344,1114,loam,0,1.037
-345,345,1114,loam,50,2.446
-346,346,1114,loam,100,5.666
-347,347,1114,loam,150,8.342
-348,348,1114,loam,200,8.129
-349,349,1115,clay loam,0,2.033
-350,350,1115,clay loam,50,3.798
-351,351,1115,clay loam,100,6.0120000000000005
-352,352,1115,clay loam,150,7.1370000000000005
-353,353,1115,clay loam,200,8.187999999999999
-354,354,1154,clay,0,10.728
-355,355,1154,clay,80,10.643
-356,356,1154,clay,120,11.05
-357,357,1154,clay,160,5.1610000000000005
-358,358,1154,clay,200,9.25
-359,359,1154,clay,240,11.792
-360,360,1158,clay loam,0,3.0010000000000003
-361,361,1158,clay loam,50,5.818
-362,362,1158,clay loam,100,5.931
-363,363,1158,clay loam,150,6.261
-364,364,1158,clay loam,200,0.31
-365,365,1160,clay loam,0,2.458
-366,366,1160,clay loam,50,4.184
-367,367,1160,clay loam,100,5.737
-368,368,1160,clay loam,150,6.318
-369,369,1160,clay loam,200,0.481
-370,370,1164,sandy loam,0,1.784
-371,371,1164,sandy loam,50,2.265
-372,372,1164,sandy loam,100,3.562
-373,373,1164,sandy loam,150,4.687
-374,374,1164,sandy loam,200,6.83
-375,375,1164,sandy loam,250,8.527000000000001
-376,376,1167,silty clay loam,0,12.049
-377,377,1167,silty clay loam,50,11.761
-378,378,1167,silty clay loam,100,12.624
-379,379,1167,silty clay loam,150,4.4
-380,380,1167,silty clay loam,200,7.716
-381,381,1167,silty clay loam,250,8.119
-382,382,1168,silty clay,0,10.404000000000002
-383,383,1168,silty clay,50,10.738
-384,384,1168,silty clay,100,11.372
-385,385,1168,silty clay,150,11.737
-386,386,1168,silty clay,200,11.743
-387,387,1168,silty clay,250,12.567
-388,388,1170,sandy loam,0,9.453
-389,389,1170,sandy loam,50,9.318
-390,390,1170,sandy loam,100,9.586
-391,391,1170,sandy loam,150,7.035
-392,392,1170,sandy loam,200,6.045
-393,393,1170,sandy loam,250,11.655
-394,394,1181,loamy sand,0,3.014
-395,395,1181,loamy sand,45,3.099
-396,396,1181,loamy sand,90,2.608
-397,397,1181,loamy sand,135,3.164
-398,398,1181,loamy sand,200,2.8480000000000003
-399,399,1184,clay loam,0,8.176
-400,400,1184,clay loam,45,9.918
-401,401,1184,clay loam,90,9.869
-402,402,1184,clay loam,135,8.776
-403,403,1184,clay loam,200,8.965
-404,404,1185,sandy loam,0,9.629
-405,405,1185,sandy loam,45,10.511
-406,406,1185,sandy loam,90,11.394
-407,407,1185,sandy loam,135,11.149
-408,408,1185,sandy loam,200,11.42
-409,409,1188,silt loam,0,8.258
-410,410,1188,silt loam,45,9.224
-411,411,1188,silt loam,90,10.334
-412,412,1188,silt loam,135,10.498
-413,413,1188,silt loam,200,9.894
+TRIAL,STx,Nrate,GY
+1,silty clay loam,0,13.317
+1,silty clay loam,84,14.434
+1,silty clay loam,140,15.267
+1,silty clay loam,196,15.405
+1,silty clay loam,280,15.496
+4,silt loam,0,9.742
+4,silt loam,84,11.287
+4,silt loam,140,11.037
+4,silt loam,196,10.963
+4,silt loam,280,11.473
+5,silt loam,0,10.969
+5,silt loam,140,12.75
+5,silt loam,196,12.845
+5,silt loam,252,12.563
+5,silt loam,336,13.638
+13,silty clay,0,7.903
+13,silty clay,56,12.177
+13,silty clay,112,13.397
+13,silty clay,168,13.606
+13,silty clay,280,13.671
+29,silt loam,0,10.33
+29,silt loam,56,12.826
+29,silt loam,112,15.628
+29,silt loam,168,15.107
+29,silt loam,280,15.584
+51,silt loam,0,4.157
+51,silt loam,178,6.71
+51,silt loam,36,5.037
+51,silt loam,62,5.989
+51,silt loam,89,5.443
+51,silt loam,116,5.637
+51,silt loam,143,6.434
+51,silt loam,170,6.5
+51,silt loam,196,6.599
+53,silty clay loam,0,8.14
+53,silty clay loam,178,10.973
+53,silty clay loam,36,9.076
+53,silty clay loam,62,9.977
+53,silty clay loam,89,10.279
+53,silty clay loam,116,10.208
+53,silty clay loam,143,10.497
+53,silty clay loam,170,10.703
+53,silty clay loam,196,10.427
+54,silt loam,0,10.334
+54,silt loam,178,11.483
+54,silt loam,36,12.577
+54,silt loam,62,11.779
+54,silt loam,89,11.005
+54,silt loam,116,13.25
+54,silt loam,143,12.717
+54,silt loam,170,13.81
+54,silt loam,196,10.858
+59,silt loam,0,5.799
+59,silt loam,178,12.697
+59,silt loam,36,7.977
+59,silt loam,62,10.342
+59,silt loam,89,10.628
+59,silt loam,116,11.791
+59,silt loam,143,11.54
+59,silt loam,170,10.727
+59,silt loam,196,11.978
+64,silt loam,0,7.557
+64,silt loam,178,13.674
+64,silt loam,36,10.288
+64,silt loam,62,14.165
+64,silt loam,89,12.965
+64,silt loam,116,15.571
+64,silt loam,143,14.851
+64,silt loam,170,16.767
+64,silt loam,196,15.877
+106,loam,0,5.524
+106,loam,90,8.6
+106,loam,179,10.107
+106,loam,269,11.237
+109,loam,0,5.838
+109,loam,90,10.86
+109,loam,179,12.304
+109,loam,269,12.555
+110,loam,0,6.717
+110,loam,90,7.784
+110,loam,179,7.659
+110,loam,269,7.47
+121,silty clay loam,0,6.628
+121,silty clay loam,90,10.981
+121,silty clay loam,179,12.476
+121,silty clay loam,269,12.606
+162,silt loam,0,3.693
+162,silt loam,50,7.462
+162,silt loam,100,10.553
+162,silt loam,150,12.06
+162,silt loam,200,12.085
+187,loam,0,3.916
+187,loam,67,7.315
+187,loam,134,9.015
+187,loam,201,8.867
+187,loam,268,9.754
+208,silty clay loam,0,8.524
+208,silty clay loam,165,9.973
+208,silty clay loam,330,11.105
+238,sandy loam,0,7.1
+238,sandy loam,134,9.8
+238,sandy loam,202,8.5
+238,sandy loam,269,8
+274,clay loam,0,13.328
+274,clay loam,50,13.94
+274,clay loam,50,13.815
+274,clay loam,90,14.271
+274,clay loam,90,14.158
+274,clay loam,130,13.956
+274,clay loam,130,13.91
+274,clay loam,180,13.694
+274,clay loam,180,13.362
+274,clay loam,300,14.143
+274,clay loam,300,13.106
+305,loam,0,6.781
+305,loam,73,9.026
+305,loam,124,9.402
+305,loam,174,10.859
+305,loam,224,10.407
+331,silty clay loam,0,16.108
+331,silty clay loam,22,15.866
+331,silty clay loam,45,16.25
+331,silty clay loam,67,17.038
+331,silty clay loam,90,16.972
+331,silty clay loam,179,16.423
+372,silty clay,0,9.653
+372,silty clay,30,10.081
+372,silty clay,60,11.235
+372,silty clay,90,11.641
+372,silty clay,130,12.402
+372,silty clay,200,12.412
+372,silty clay,30,10.366
+372,silty clay,60,12.465
+372,silty clay,90,13.103
+372,silty clay,130,13.486
+372,silty clay,200,13.281
+393,loam,0,7.277
+393,loam,45,9.834
+393,loam,89,10.561
+393,loam,134,11.662
+393,loam,179,11.865
+393,loam,224,12.349
+424,loam,0,6.664
+424,loam,190,6.516
+424,loam,224,10.826
+454,silt loam,0,7.909
+454,silt loam,34,8.012
+454,silt loam,140,8.48
+489,sandy loam,0,4.316
+489,sandy loam,56,6.671
+489,sandy loam,112,8.752
+489,sandy loam,168,9.688
+489,sandy loam,224,8.673
+489,sandy loam,280,9.799
+489,sandy loam,336,10.015
+554,silty clay loam,0,10.723
+554,silty clay loam,50,12.797
+554,silty clay loam,101,13.023
+554,silty clay loam,151,13.023
+554,silty clay loam,202,13.096
+554,silty clay loam,252,13.382
+659,silty clay,0,4.329
+659,silty clay,50,7.262
+659,silty clay,101,10.315
+659,silty clay,151,11.73
+659,silty clay,202,11.786
+659,silty clay,252,12.321
+675,silt loam,0,6.798
+675,silt loam,168,12.565
+675,silt loam,336,15.05
+677,loam,0,4.693
+677,loam,168,12.507
+677,loam,336,14.547
+678,silt loam,0,8.364
+678,silt loam,168,13.157
+678,silt loam,336,13.599
+739,silt loam,0,6.068
+739,silt loam,45,6.056
+739,silt loam,90,8.601
+739,silt loam,134,11.338
+739,silt loam,179,10.999
+739,silt loam,224,8.477
+739,silt loam,269,9.35
+744,silt loam,0,2.9
+744,silt loam,84,5.4
+744,silt loam,168,6.6
+746,silt loam,0,2.8
+746,silt loam,84,6.1
+746,silt loam,168,6.9
+782,loam,0,10.837
+782,loam,46,11.474
+782,loam,92,12.207
+782,loam,138,13.227
+782,loam,184,14.183
+782,loam,230,14.183
+784,silt loam,0,6.247
+784,silt loam,46,6.566
+784,silt loam,92,7.012
+784,silt loam,138,6.088
+784,silt loam,184,6.757
+784,silt loam,230,6.534
+787,loam,0,9.6
+787,loam,67,12
+787,loam,134,12
+787,loam,269,13.2
+790,silty clay loam,0,5.7
+790,silty clay loam,67,9.9
+790,silty clay loam,134,11.9
+790,silty clay loam,269,12.2
+793,silt loam,0,12.9
+793,silt loam,67,14.2
+793,silt loam,134,14.3
+793,silt loam,269,14.6
+801,silty clay loam,0,5.6
+801,silty clay loam,67,10.9
+801,silty clay loam,134,12.4
+801,silty clay loam,269,13.3
+804,silty clay,0,8.8
+804,silty clay,67,9.4
+804,silty clay,134,9.7
+804,silty clay,269,9.7
+807,silty clay loam,0,8.7
+807,silty clay loam,67,9.8
+807,silty clay loam,134,9.9
+807,silty clay loam,269,9.9
+811,silty clay loam,0,10.1
+811,silty clay loam,67,12.1
+811,silty clay loam,134,13.1
+811,silty clay loam,269,13.2
+815,silty clay loam,0,13
+815,silty clay loam,67,14
+815,silty clay loam,134,14.3
+815,silty clay loam,269,14.4
+817,silty clay loam,0,7.165
+817,silty clay loam,90,8.538
+817,silty clay loam,134,8.668
+817,silty clay loam,179,7.83
+817,silty clay loam,224,8.045
+831,loamy sand,0,3.5
+831,loamy sand,125,11.2
+831,loamy sand,185,11.3
+831,loamy sand,250,12
+831,loamy sand,250,12.7
+831,loamy sand,300,11.9
+836,sandy loam,0,2.7
+836,sandy loam,125,3.6
+836,sandy loam,185,3.5
+836,sandy loam,250,4.1
+836,sandy loam,250,4
+836,sandy loam,300,3.8
+901,silt loam,0,4.197
+901,silt loam,60,8.756
+901,silt loam,120,9.62
+901,silt loam,180,12.265
+901,silt loam,260,12.436
+902,silt loam,0,8.744
+902,silt loam,70,12.692
+902,silt loam,140,14.406
+902,silt loam,210,11.983
+904,loam,0,14.914
+904,loam,70,15.728
+904,loam,140,15.843
+904,loam,210,16.981
+906,loam,0,13.704
+906,loam,70,15.957
+906,loam,140,16.652
+906,loam,210,18.557
+946,silt loam,0,4.344
+946,silt loam,60,7.554
+946,silt loam,120,10.128
+946,silt loam,180,13.175
+946,silt loam,240,14.501
+949,silt loam,0,10.508
+949,silt loam,60,13.026
+949,silt loam,120,13.549
+949,silt loam,180,13.205
+949,silt loam,240,13.631
+953,silt loam,0,11.049
+953,silt loam,60,10.862
+953,silt loam,120,10.787
+953,silt loam,180,10.569
+953,silt loam,240,11.565
+957,silt loam,0,13.86
+957,silt loam,60,15.38
+957,silt loam,120,16.884
+957,silt loam,180,16.281
+957,silt loam,240,16.163
+959,silt loam,0,12.891
+959,silt loam,60,15.038
+959,silt loam,120,16.308
+959,silt loam,180,17.208
+959,silt loam,240,16.634
+961,sandy loam,0,11.834
+961,sandy loam,60,15.703
+961,sandy loam,120,16.249
+961,sandy loam,180,16.471
+961,sandy loam,240,17.99
+965,silt loam,0,10.296
+965,silt loam,60,12.612
+965,silt loam,120,14.302
+965,silt loam,180,14.348
+965,silt loam,240,14.949
+1033,loam,0,4.3
+1033,loam,101,8.1
+1033,loam,202,8.9
+1093,loam,0,8.57
+1093,loam,34,10.88
+1093,loam,67,12.2
+1093,loam,134,12.42
+1095,loam,0,11.93
+1095,loam,34,12.23
+1095,loam,67,13
+1095,loam,134,13.58
+1097,loam,0,4.35
+1097,loam,34,5.44
+1097,loam,67,6.67
+1097,loam,134,6.54
+1102,silt loam,0,2.134
+1102,silt loam,50,4.017
+1102,silt loam,100,4.143
+1102,silt loam,150,5.084
+1104,loam,0,9.934
+1104,loam,50,12.467
+1104,loam,100,13.638
+1104,loam,150,14.266
+1104,loam,200,13.724
+1104,loam,250,14.563
+1107,clay loam,0,5.11
+1107,clay loam,50,6.647
+1107,clay loam,100,11.274
+1107,clay loam,150,12.113
+1107,clay loam,200,13.093
+1107,clay loam,250,13.706
+1110,clay,0,5.955
+1110,clay,50,6.326
+1110,clay,100,9.061
+1110,clay,150,9.725
+1110,clay,200,9.996
+1110,clay,250,9.933
+1112,clay loam,0,5.757
+1112,clay loam,50,9.919
+1112,clay loam,100,10.194
+1112,clay loam,150,10.768
+1112,clay loam,200,10.607
+1114,loam,0,1.037
+1114,loam,50,2.446
+1114,loam,100,5.666
+1114,loam,150,8.342
+1114,loam,200,8.129
+1115,clay loam,0,2.033
+1115,clay loam,50,3.798
+1115,clay loam,100,6.012
+1115,clay loam,150,7.137
+1115,clay loam,200,8.188
+1154,clay,0,10.728
+1154,clay,80,10.643
+1154,clay,120,11.05
+1154,clay,160,5.161
+1154,clay,200,9.25
+1154,clay,240,11.792
+1158,clay loam,0,3.001
+1158,clay loam,50,5.818
+1158,clay loam,100,5.931
+1158,clay loam,150,6.261
+1158,clay loam,200,0.31
+1160,clay loam,0,2.458
+1160,clay loam,50,4.184
+1160,clay loam,100,5.737
+1160,clay loam,150,6.318
+1160,clay loam,200,0.481
+1164,sandy loam,0,1.784
+1164,sandy loam,50,2.265
+1164,sandy loam,100,3.562
+1164,sandy loam,150,4.687
+1164,sandy loam,200,6.83
+1164,sandy loam,250,8.527
+1167,silty clay loam,0,12.049
+1167,silty clay loam,50,11.761
+1167,silty clay loam,100,12.624
+1167,silty clay loam,150,4.4
+1167,silty clay loam,200,7.716
+1167,silty clay loam,250,8.119
+1168,silty clay,0,10.404
+1168,silty clay,50,10.738
+1168,silty clay,100,11.372
+1168,silty clay,150,11.737
+1168,silty clay,200,11.743
+1168,silty clay,250,12.567
+1170,sandy loam,0,9.453
+1170,sandy loam,50,9.318
+1170,sandy loam,100,9.586
+1170,sandy loam,150,7.035
+1170,sandy loam,200,6.045
+1170,sandy loam,250,11.655
+1181,loamy sand,0,3.014
+1181,loamy sand,45,3.099
+1181,loamy sand,90,2.608
+1181,loamy sand,135,3.164
+1181,loamy sand,200,2.848
+1184,clay loam,0,8.176
+1184,clay loam,45,9.918
+1184,clay loam,90,9.869
+1184,clay loam,135,8.776
+1184,clay loam,200,8.965
+1185,sandy loam,0,9.629
+1185,sandy loam,45,10.511
+1185,sandy loam,90,11.394
+1185,sandy loam,135,11.149
+1185,sandy loam,200,11.42
+1188,silt loam,0,8.258
+1188,silt loam,45,9.224
+1188,silt loam,90,10.334
+1188,silt loam,135,10.498
+1188,silt loam,200,9.894
