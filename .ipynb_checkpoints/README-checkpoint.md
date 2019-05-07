@@ -17,8 +17,11 @@ Automating the calculation of grain yield (GY) response to different rates of ni
 *.csv file with 4 columns: TRIAL, STx, N rate, and GY, where:
 
 **-TRIAL**: Experiment ID number;
+
 **-STx**: Soil texture class of typical pedon  (Soil Survey Staff, 2018);
+
 **-Nrate**: Nitrogen rate (kg N / ha);
+
 **-GY**: Grain Yield when Nrate=0  (Mg / ha, 15.5% moisture);
 
 ## Outcomes
@@ -29,16 +32,23 @@ Two "*.csv" files
 2. Nf_plots.csv, with the following columns: TRIAL, STx, Nrate, GY, Y0, Ymax, NR, NRr and NAE, where:
 
 **-Y0**: GY when Nrate=0  (Mg / ha);
+
 **-Ymax**: maximum observed GY (Mg / ha);
+
 **-NR**: absolute nitrogen response corresponding to each fertilizer rate different from 0  (Mg / ha).
+
 **-NRr**: relative nitrogen response corresponding to each fertilizer rate different from 0  (%).
+
 **-NRmax**: maximum absolute nitrogen response (Mg / ha).
+
 **-NRmax_r**: maximum relative nitrogen response (%).
+
 **-NAE**: nitrogen agronomic efficiency as NR divided by its corresponding Nrate (kg NR / kg applied N).
 
 Challenges might be related to: 
 
 i) the # of Nrate levels and the ammount of applied N (kg) vary across trials;
+
 ii) Y0 and Ymax values take place at **Trial** level, while the NR and NAE values, at a sub-level by a given **Trial-Nrate combination**.
 
 ## Rationale
